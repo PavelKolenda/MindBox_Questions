@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34825.169
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqareLib", "SqareLib\SqareLib.csproj", "{ECEE4E50-DC10-4A10-AB56-9EC65116EC17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareLib", "SqareLib\SquareLib.csproj", "{ECEE4E50-DC10-4A10-AB56-9EC65116EC17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqareLib.Tests", "SqareLib.Tests\SqareLib.Tests.csproj", "{8C5ABB79-C708-42CA-B60F-2E446F9B7106}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareLib.Tests", "SqareLib.Tests\SquareLib.Tests.csproj", "{8C5ABB79-C708-42CA-B60F-2E446F9B7106}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
